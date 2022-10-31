@@ -1,3 +1,5 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
 * {
     scroll-behavior: smooth;
     font-family: 'Courier New', Courier, monospace;
@@ -95,6 +97,7 @@
 .container h1 {
     position: relative;
     top: 20rem;
+    font-size: 5rem;
 }
 .container h5 {
     position: relative;
@@ -103,7 +106,7 @@
 
 .cntainer-secondary {
     width: 100%;
-    height: 110rem;
+    height: 300rem;
     background-image: linear-gradient(145deg , #343a40c4 , #343a40);
     overflow: hidden;
 
@@ -150,25 +153,52 @@
 
 .cntainer-secondary #headphones {
     position: relative;
-    top: -406px;
+    top: -115rem;
 }
 
 .cntainer-secondary #shop2 img {
     width: 13rem;
     height: 13rem;
     border-radius: 0rem;
+    position: relative;
+
 }
 
 .cntainer-secondary #shop2 a{
-    background-color: #343a40a1;
+    
+    /* background-color: #343a40a1;
     width: 100%;
-    height: 192rem;
-    padding: 0px;
-    padding-bottom: 400px;
+    /* height: 1rem; */
+    /* padding: 0px;
+    padding-bottom: 286px;
     border-radius: 10px;
+    position: relative;
+    top: 214px; */ 
+
 }
 
 .cntainer-secondary #p1 {
     position: relative;
     top: 0;
+}
+
+.cntainer-secondary .img-responsive .responsive-h1 {
+    position: relative;
+    width:fit-content;
+}
+
+
+
+.third-container {
+    background: linear-gradient(45deg , rgba(0,0,0,0.78), rgba(0,0,0,0.75)) , url('/background.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 58.5rem;
+    z-index: 1000;
+    
+}
+
+.third-container {
+    text-align: center;
 }
