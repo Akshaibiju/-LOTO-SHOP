@@ -202,3 +202,27 @@
 .third-container {
     text-align: center;
 }
+
+.third-container .hero-body #hb1 {
+    width: 80px;
+    height: 80px;
+    margin-left: 300px;
+}
+
+.third-container .hero-body #hb1:hover {
+    background-color: #f9f9f9;
+}
+.third-container .hero-body #hb2 {
+    width: 80px;
+    height: 80px;
+    margin-left: 300px;
+    top: -7px;
+    position: relative;
+}
+
+.third-container .hero-body #hb2:hover {
+    background-color: #f9f9f9;
+}
+.hero-body {
+    overflow: hidden;
+}

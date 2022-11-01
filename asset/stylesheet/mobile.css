@@ -1,5 +1,191 @@
-@media screen and (max-width: 617.98px) {
+@media screen and (max-width: 575.99px) {
     .cntainer-secondary #shop { 
         display: none;
+    }
+}
+
+@media (max-width: 575.98px) {
+
+    .cntainer-secondary .img-responsive img {
+        width: 12rem;
+        height: 12rem;
+        border-radius: 170px;
+        background-image: linear-gradient(45deg , rgba(0,0,0,0.78), rgba(0,0,0,0.75));
+        position: relative;
+        top: 5rem;
+        transition: all 0.6s;
+    }
+    
+    .cntainer-secondary #shop2 .img-responsive img {
+        width: 50px;
+        height: 50px;
+    }
+    .cntainer-secondary #shop2 {
+        height: 20rem;
+        margin-bottom: -1rem;
+    }
+
+    .cntainer-secondary {
+        width: 100%;
+        height: 105rem;
+        background-image: linear-gradient(145deg , #343a40c4 , #343a40);
+        overflow: hidden;
+    }
+
+    .cntainer-secondary #headphones {
+        position: relative;
+        top: 4rem;
+    }
+
+    .third-container .hero-body #hb1 {
+        width: 80px;
+        height: 80px;
+        margin-left: 36px;
+    }
+    .third-container #hb2 {
+        width: 80px;
+        height: 80px;
+        position: relative;
+        left: 32px;
+        top: -12px;
+    }
+}
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    .cntainer-secondary .img-responsive img {
+        width: 5rem;
+        height: 5rem;
+        border-radius: 170px;
+        background-image: linear-gradient(45deg , rgba(0,0,0,0.78), rgba(0,0,0,0.75));
+        position: relative;
+        top: 5rem;
+        transition: all 0.6s;
+    }
+    .cntainer-secondary #shop2 img {
+        width: 100px;
+        height: 100px;
+    }
+    .cntainer-secondary #shop2 {
+        height: 20rem;
+        margin-bottom: -1rem;
+    }
+
+    .cntainer-secondary {
+        width: 100%;
+        height: 135rem;
+        background-image: linear-gradient(145deg , #343a40c4 , #343a40);
+        overflow: hidden;
+    }
+
+    .cntainer-secondary #headphones {
+        position: relative;
+        top: -59rem;
+    }
+
+    .third-container .hero-body #hb1 {
+        width: 80px;
+        height: 80px;
+        margin-left: 68px;
+    }
+    .third-container #hb2 {
+        width: 80px;
+        height: 80px;
+        position: relative;
+        left: 32px;
+        top: -12px;
+        margin-left: 35px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    .cntainer-secondary #shop2 img {
+        width: 150px;
+        height: 150px;
+    }
+    .cntainer-secondary .img-responsive img {
+        width: 8rem;
+        height: 8rem;
+        border-radius: 170px;
+        background-image: linear-gradient(45deg , rgba(0,0,0,0.78), rgba(0,0,0,0.75));
+        position: relative;
+        top: 5rem;
+        transition: all 0.6s;
+    }
+    .cntainer-secondary #shop2 {
+        height: 20rem;
+        margin-bottom: 15rem;
+    }
+
+    .cntainer-secondary {
+        width: 100%;
+        height: 180rem;
+        background-image: linear-gradient(145deg , #343a40c4 , #343a40);
+        overflow: hidden;
+    }
+
+    .cntainer-secondary #headphones {
+        position: relative;
+        top: -73rem;
+    }
+
+    .third-container .hero-body #hb1 {
+        width: 80px;
+        height: 80px;
+        margin-left: 133px;
+    }
+    .third-container #hb2 {
+        width: 80px;
+        height: 80px;
+        position: relative;
+        left: 32px;
+        top: -12px;
+        margin-left: 99px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+    .cntainer-secondary #shop2 img {
+        width: 200px;
+        height: 200px;
+    }
+    .cntainer-secondary #headphones {
+        position: relative;
+        top: -83rem;
+    }
+    .cntainer-secondary #shop2 {
+        height: 45rem;
+    }
+    .cntainer-secondary {
+        width: 100%;
+        height: 290rem;
+        background-image: linear-gradient(145deg , #343a40c4 , #343a40);
+        overflow: hidden;
+    }
+    .third-container .hero-body #hb1 {
+        width: 80px;
+        height: 80px;
+        margin-left: 165px;
+    }
+    .third-container .hero-body #hb2 {
+        width: 80px;
+        height: 80px;
+        margin-left: 165px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1407.98px) {
+    .third-container .hero-body #hb1 {
+        width: 80px;
+        height: 80px;
+        margin-left: -158px;
+        margin-right: 12rem;
+        position: relative;
+        left: 20rem;
     }
 }
