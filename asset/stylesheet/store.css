@@ -39,3 +39,21 @@
     position: relative;
     top: 210px;
 }
+
+#navbar #nav-item a {
+    color: #fff;
+
+}
+#navbar #nav-item a:active {
+    color: rgb(4, 161, 252);
+}
+.selected {
+    /* color: rgb(4, 161, 252); */
+    background-color: #0048ff;
+    border-radius: 10px;
+}
+
+#navbar #nav-item a:hover {
+    color: #0048ff;
+    border-radius: 10px;
+}
