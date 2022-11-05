@@ -57,3 +57,17 @@
     color: #0048ff;
     border-radius: 10px;
 }
+
+.background  #b-box #candidate {
+    background-color: #000000;
+    color: #fff;
+}
+
+.background #b-box ul{
+    color:#0048ff;
+    background-color: #000000;
+}
+
+.background #b-box button{
+    /* background-color: rgba(0,0,0,0.78); */
+}
