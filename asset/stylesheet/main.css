@@ -217,7 +217,7 @@
 .third-container .hero-body #hb1 {
     width: 80px;
     height: 80px;
-    margin-left: 300px;
+    margin-left: 410px;
 }
 
 .third-container .hero-body #hb1:hover {
@@ -337,4 +337,17 @@
     color: rgb(0 0 0);
     font-family: monospace;
     font-size: 26px;
+}
+
+.third-container #hb1 {
+    width: 156px;
+    height: 80px;
+    margin-left: 410px;
+}
+.third-container #hb2 {
+    width: 156px;
+    height: 80px;
+    margin-left: 410px;
+    background:#000000;
+    color: #fff;
 }

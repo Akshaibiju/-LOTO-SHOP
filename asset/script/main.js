@@ -24,3 +24,16 @@ function ipone(){
 function home(){
     location.replace("index.html");
 }
+
+function ipad(){
+    location.replace("web/module/ipad.html");
+}
+function mac(){
+    location.replace("web/module/mac.html");
+}
+function watches(){
+    location.replace("web/module/apple-watch.html");
+}
+function earpods(){
+    location.replace("web/module/earpods.html");
+}

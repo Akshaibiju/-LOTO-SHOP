@@ -1,0 +1,12 @@
+.rf-digitalmat-inlinetabs {
+    position: relative;
+    width: 100%;
+}
+
+#product-202 {
+    width: 100%;
+}
+.rf-digitalmat-overlay-tabcontent {
+    overflow: visible;
+    transition-duration: .1s;
+}
