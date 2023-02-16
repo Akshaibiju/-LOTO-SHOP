@@ -1,1 +1,10 @@
 # -LOTO-SHOP
+
+A MODEL OF A SHOPPING WEBSITE WITH 
+CSS FRAMEWORK : BOOTSTRAP
+
+
+# URL-TO-VISIT
+
+https://loto-bazaar.netlify.app/
+
